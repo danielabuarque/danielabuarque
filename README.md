@@ -1,6 +1,8 @@
 
 
-<h1 style="border-bottom: 0;">I'm Daniela and Welcome to my Github 👋</h1>
+<h1>I'm Daniela and Welcome to my Github 👋</h1>
 
-I'm currently working as a **Front-End developer**.
+I've been working as a **Front-End developer** for almost two years.
+
+Here are some of the programming languages and framework I know most: Javascript, Typescript and Angular.
 
