@@ -1,4 +1,6 @@
-<h1 align="center">I'm Daniela and Welcome to my Github 👋</h1>
+<img src="background.jpg" height="100" width="1000"/>
+
+<h1 align="center">Hi  👋, I'm Daniela and Welcome to my Github</h1>
 
 I've been working as a **Front-End developer** for almost two years.
 
