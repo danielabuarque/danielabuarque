@@ -1,5 +1,10 @@
+<style>
+    hr {
+        background-color: red;
+    }
+</style>
 
-<hr style="background-color: red"/>
+<hr/>
 <h1>I'm Daniela and Welcome to my Github 👋</h1>
 
 I've been working as a **Front-End developer** for almost two years.
