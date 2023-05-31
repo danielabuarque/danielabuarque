@@ -1,11 +1,12 @@
 <style>
-    hr {
-        background-color: red;
-    }
+    .heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
 </style>
 
-<hr/>
-<h1>I'm Daniela and Welcome to my Github 👋</h1>
+<h1 class="heading1">I'm Daniela and Welcome to my Github 👋</h1>
 
 I've been working as a **Front-End developer** for almost two years.
 
