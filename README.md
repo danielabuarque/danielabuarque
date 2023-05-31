@@ -1,5 +1,5 @@
 
-<hr/>
+<hr style="background-color: red"/>
 <h1>I'm Daniela and Welcome to my Github 👋</h1>
 
 I've been working as a **Front-End developer** for almost two years.
