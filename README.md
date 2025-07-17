@@ -1,4 +1,4 @@
-<img src="background.jpg" height="100" width="1000"/>
+<img src="picture.jpg" height="100" width="100"/>
 
 <h1 align="center">Hi  👋, I'm Daniela Buarque and Welcome to my Github</h1>
 
