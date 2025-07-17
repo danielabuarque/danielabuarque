@@ -1,6 +1,4 @@
-<div align="center">
 <img src="picture.jpg" height="80" width="80"/>
-</div>
 
 <h1 align="center">Hi  👋, I'm Daniela Buarque and Welcome to my Github</h1>
 
